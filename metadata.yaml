@@ -1,0 +1,36 @@
+_repo: My-Little-Sister_36220
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36220-h/images/cover3.jpg
+creator:
+  author:
+    agent_name: Robins, Elizabeth
+    aliases:
+    - Parkes, Elizabeth Robins
+    - Parks, Mrs. George Richmond
+    - Raimond, C. E.
+    - Parks, Elizabeth Robins
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '3274'
+    url: http://www.gutenberg.org/2009/agents/3274
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
+description: ''
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Prostitution -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+title: My Little Sister
+url: http://www.gutenberg.org/ebooks/36220
